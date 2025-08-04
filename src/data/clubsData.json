@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Innovation Club",
+    "description": "A community of tech enthusiasts passionate about innovation, coding, and emerging technologies. We organize hackathons, workshops, and tech talks.",
+    "image": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop",
+    "category": "Technology",
+    "members": 245,
+    "established": "2019",
+    "socialLinks": {
+      "instagram": "@tech_innovation_club",
+      "linkedin": "tech-innovation-club",
+      "website": "https://techinnovation.edu"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cultural Arts Society",
+    "description": "Celebrating diversity through art, music, dance, and cultural events. We bring together students from different backgrounds to share their heritage.",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=300&fit=crop",
+    "category": "Arts & Culture",
+    "members": 180,
+    "established": "2017",
+    "socialLinks": {
+      "instagram": "@cultural_arts_society",
+      "facebook": "CulturalArtsSociety"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Environmental Action Group",
+    "description": "Dedicated to environmental conservation and sustainability. We organize clean-up drives, awareness campaigns, and eco-friendly initiatives.",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=400&h=300&fit=crop",
+    "category": "Environment",
+    "members": 156,
+    "established": "2018",
+    "socialLinks": {
+      "instagram": "@environmental_action",
+      "twitter": "@env_action_group"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Business & Entrepreneurship Club",
+    "description": "Fostering entrepreneurial mindset and business acumen. We host startup competitions, business plan workshops, and networking events.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
+    "category": "Business",
+    "members": 198,
+    "established": "2020",
+    "socialLinks": {
+      "linkedin": "business-entrepreneurship-club",
+      "website": "https://bizclub.edu"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sports & Recreation Committee",
+    "description": "Promoting physical fitness and sportsmanship through various athletic events, tournaments, and recreational activities.",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop",
+    "category": "Sports",
+    "members": 312,
+    "established": "2016",
+    "socialLinks": {
+      "instagram": "@sports_recreation",
+      "facebook": "SportsRecreationCommittee"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Photography Club",
+    "description": "Capturing moments and telling stories through the lens. We organize photo walks, exhibitions, and photography workshops.",
+    "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400&h=300&fit=crop",
+    "category": "Arts & Media",
+    "members": 89,
+    "established": "2019",
+    "socialLinks": {
+      "instagram": "@photography_club_official",
+      "flickr": "photography-club"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Debate & Public Speaking Society",
+    "description": "Enhancing communication skills and critical thinking through debates, public speaking events, and oratory competitions.",
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=300&fit=crop",
+    "category": "Academic",
+    "members": 134,
+    "established": "2018",
+    "socialLinks": {
+      "youtube": "DebatePublicSpeaking",
+      "linkedin": "debate-public-speaking-society"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Music & Performing Arts",
+    "description": "A platform for musicians, singers, and performers to showcase their talent and collaborate on creative projects.",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=300&fit=crop",
+    "category": "Arts & Music",
+    "members": 167,
+    "established": "2017",
+    "socialLinks": {
+      "instagram": "@music_performing_arts",
+      "spotify": "music-performing-arts",
+      "youtube": "MusicPerformingArts"
+    }
+  }
+]
