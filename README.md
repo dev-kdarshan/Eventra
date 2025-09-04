@@ -234,10 +234,6 @@ eventra/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👥 Team
+## Developer
 
-Built with ❤️ by the Eventra development team. See the About page for detailed team information.
-
----
-
-**Eventra** - Connecting campus communities through meaningful events and experiences.
+This project is designed and developed by Darshan Khute withLovable Dev.
